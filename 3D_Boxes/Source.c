@@ -1,5 +1,3 @@
-// gcc Source.c -std=gnu99 -I../ZDK -L../ZDK -lzdk -lncurses -o 3D_Boxes
-
 // Author: Daniel Field
 #include <cab202_timers.h>
 #include <cab202_graphics.h>
