@@ -1,4 +1,4 @@
-I do not own the ZDK library.
+I do not own the ZDK library. This was a library used at QUT in the CAB202 unit.
 
 To compile the code, run make.
 
